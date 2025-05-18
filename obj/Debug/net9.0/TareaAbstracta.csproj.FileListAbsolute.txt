@@ -1,0 +1,14 @@
+/Users/darlingtonpadgett/TareaAbstracta/bin/Debug/net9.0/TareaAbstracta
+/Users/darlingtonpadgett/TareaAbstracta/bin/Debug/net9.0/TareaAbstracta.deps.json
+/Users/darlingtonpadgett/TareaAbstracta/bin/Debug/net9.0/TareaAbstracta.runtimeconfig.json
+/Users/darlingtonpadgett/TareaAbstracta/bin/Debug/net9.0/TareaAbstracta.dll
+/Users/darlingtonpadgett/TareaAbstracta/bin/Debug/net9.0/TareaAbstracta.pdb
+/Users/darlingtonpadgett/TareaAbstracta/obj/Debug/net9.0/TareaAbstracta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darlingtonpadgett/TareaAbstracta/obj/Debug/net9.0/TareaAbstracta.AssemblyInfoInputs.cache
+/Users/darlingtonpadgett/TareaAbstracta/obj/Debug/net9.0/TareaAbstracta.AssemblyInfo.cs
+/Users/darlingtonpadgett/TareaAbstracta/obj/Debug/net9.0/TareaAbstracta.csproj.CoreCompileInputs.cache
+/Users/darlingtonpadgett/TareaAbstracta/obj/Debug/net9.0/TareaAbstracta.dll
+/Users/darlingtonpadgett/TareaAbstracta/obj/Debug/net9.0/refint/TareaAbstracta.dll
+/Users/darlingtonpadgett/TareaAbstracta/obj/Debug/net9.0/TareaAbstracta.pdb
+/Users/darlingtonpadgett/TareaAbstracta/obj/Debug/net9.0/TareaAbstracta.genruntimeconfig.cache
+/Users/darlingtonpadgett/TareaAbstracta/obj/Debug/net9.0/ref/TareaAbstracta.dll
